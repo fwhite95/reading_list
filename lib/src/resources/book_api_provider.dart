@@ -6,7 +6,7 @@ import 'package:flutter/foundation.dart';
 
 class BookApiProvider {
   Client client = Client(); //HTTP
-  final _apiKey = "AIzaSyChWiBHedCFJXkjNkXKyDxNyTOwQAIZgkQ";
+  final _apiKey = "api key";
   //String search = "Brandon+Sanderson";
 
   Future<BookModel> fetchBookList(String search) async {
