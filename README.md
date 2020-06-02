@@ -1,6 +1,6 @@
 # reading_list
 
-An application created using Flutter that allows the user to search for books and add them to a reading list using google books api.
+An application that uses the Google books api to allow the user to search books and authors and gives the user the ability to saves those books into a list. 
 
 
 
